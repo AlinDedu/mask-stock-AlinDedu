@@ -218,46 +218,4 @@
     }
   },
   "__v": 0
-},{
-  "_id": {
-    "$oid": "639b4a478204846a99021279"
-  },
-  "name": "SSE",
-  "city": "SSE",
-  "country": "Hungary",
-  "vat": 27,
-  "users": [],
-  "currency": "HUF",
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1671121479309"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1671121548177"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "639b4a538204846a9902127e"
-  },
-  "name": "SSS",
-  "city": "SSS",
-  "country": "Romania",
-  "vat": 0,
-  "users": [],
-  "currency": "RON",
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1671121491877"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1671121542178"
-    }
-  },
-  "__v": 0
 }]
