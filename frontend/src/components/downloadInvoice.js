@@ -5,9 +5,9 @@ function downloadInvoice(order, hospital) {
   const data = {
     client: {
       company: order.hospital_Name,
-      address: "UNKNOWN",
+      address: "",
       zip: Math.floor(Math.random() * 1000000),
-      city: "UNKNOWN",
+      city: hospital.city,
       country: hospital.country,
     },
     sender: {
@@ -37,7 +37,7 @@ function downloadInvoice(order, hospital) {
         price: order.price_Per_Piece,
       },
     ],
-    bottomNotice: "Kindly pay your invoice within 15 days",
+    "bottom-notice": "Kindly pay your invoice within 15 days",
     settings: {
       currency: hospital.currency,
     },
