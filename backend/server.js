@@ -25,8 +25,9 @@ app.use("/api/orders", orderRoutes);
 app.use("/api/countries", countryRoutes);
 app.use("/api/currency", currencyRoutes);
 
-//connect ot db
+//connect to db
 mongoose
+  .set("strictQuery", false)
   .connect(process.env.MONGO_URI)
   .then(() => {
     //listen for request
