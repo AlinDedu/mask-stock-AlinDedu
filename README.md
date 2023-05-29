@@ -63,7 +63,7 @@ Congratulations! You have successfully installed and set up the backend server. 
 2. Install frontend dependencies using npm(Node Package Manager).
    `npm install`
 
-### Running the Fronend Application
+### Running the Frontend Application
 
 1. Start the development server
    `npm start`
