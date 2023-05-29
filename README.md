@@ -14,11 +14,16 @@ The main purpose of the project is to provide a platform for users to securely l
 
 ## Features
 
-User Authentication: Users can sign up and log in to access the hospital management functionality.
-Hospital Management: Users can view a list of hospitals, add new hospitals, update existing hospital records, and delete hospitals.
-Context API: The project utilizes the Context API from React to manage global state related to authentication and hospitals.
-Custom Hooks: Custom hooks are implemented to handle login, signup, and logout functionality, as well as accessing the authenticated user and hospital data.
-RESTful API Integration: The application communicates with a backend server through RESTful API endpoints to perform CRUD operations on hospital records.
+- User Authentication: Users can sign up and log in to access the hospital management functionality.
+
+- Hospital Management: Users can view a list of hospitals, add new hospitals, update existing hospital records, and delete hospitals.
+
+- Context API: The project utilizes the Context API from React to manage global state related to authentication and hospitals.
+
+- Custom Hooks: Custom hooks are implemented to handle login, signup, and logout functionality, as well as accessing the authenticated user and hospital data.
+
+- RESTful API Integration: The application communicates with a backend server through RESTful API endpoints to perform CRUD operations on hospital records.
+
 This project aims to provide a foundation for building a hospital management system and can be extended with additional features such as search, filtering, and more. The code demonstrates best practices for structuring a React application and managing global state using the Context API.
 
 ## Backend Installation
