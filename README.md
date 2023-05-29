@@ -30,10 +30,10 @@ This project aims to provide a foundation for building a hospital management sys
 ### Installation
 
 1. Navigate to the backend directory.
-   `bash cd backend `
+   `cd backend `
 
 2. Install backend dependencies using npm(Node Package Manager).
-   `bash npm install`
+   `npm install`
 
 3. Configure the backend server.
 
@@ -43,7 +43,7 @@ This project aims to provide a foundation for building a hospital management sys
 ### Running the Backend Server
 
 1. Start the backend server.
-   `bash npm start`
+   `npm start`
 
 2. The backend server should now be running on the port specified in .env file
 
@@ -66,7 +66,7 @@ Congratulations! You have successfully installed and set up the backend server. 
 ### Running the Fronend Application
 
 1. Start the development server
-   `bash npm start`
+   `npm start`
 
 2. The frontend application should now be running on `http://localhost:3000`. Open your web browser and visit this URL to access the application.
 
