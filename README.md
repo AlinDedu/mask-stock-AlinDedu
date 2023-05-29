@@ -58,10 +58,10 @@ Congratulations! You have successfully installed and set up the backend server. 
 ### Installation
 
 1. Navigate to the frontend directory
-   `bash cd frontend`
+   `cd frontend`
 
 2. Install frontend dependencies using npm(Node Package Manager).
-   `bash npm install`
+   `npm install`
 
 ### Running the Fronend Application
 
