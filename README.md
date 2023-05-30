@@ -78,3 +78,7 @@ Congratulations! You have successfully installed and set up the backend server. 
 Congratulations! You have successfully installed and set up the frontend application. You can now explore the hospital management system by interacting with the user interface and managing hospitals through the provided features.
 
 Remember to ensure that the backend server is properly set up and running before using the frontend application.
+
+### Aknowledgements
+
+The Mask Stock project was developed by Alin Dedu. Special thanks to the team at [Codecool](https://codecool.com/ro/?utm_source=Google&utm_medium=CPC&utm_campaign=RO_Search_FS_NS&utm_content=Brand&gclid=Cj0KCQjwmtGjBhDhARIsAEqfDEfamMslN5iKjSQk3Uhijnekqeo5oxwjoqmUPO2CeBEVm_DLoLC1VE0aAkzaEALw_wcB) for their support and guidance during the development process.
