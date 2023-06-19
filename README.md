@@ -25,7 +25,11 @@ The main purpose of the project is to provide a platform for users to securely l
 - RESTful API Integration: The application communicates with a backend server through RESTful API endpoints to perform CRUD operations on hospital records.
 
 This project aims to provide a foundation for building a hospital management system and can be extended with additional features such as search, filtering, and more. The code demonstrates best practices for structuring a React application and managing global state using the Context API.
-
+![](screenshot1.PNG)
+![](screenshot2.PNG)
+![](screenshot3.PNG)
+![](screenshot4.PNG)
+![](screenshot5.PNG)
 ## Backend Installation
 
 ### Prerequisites
